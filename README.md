@@ -45,7 +45,7 @@ Melanoma is a dangerous form of skin cancer, and timely detection can save lives
 ---
 
 ## 👥 Team  
-- [Prajwal P]([https://github.com/your-username](https://github.com/prajwalp111))  
+- [Prajwal P](https://github.com/prajwalp111)
 - [Manjunath V Poojari](https://github.com/Manjunathvpoojari)  
 - [Mannan Faiz](https://github.com/MannanFaiz) 
 - [Nithish T R](https://github.com/nithishtr)  
